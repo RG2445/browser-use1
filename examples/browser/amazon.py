@@ -21,7 +21,6 @@ async def main():
 
     llm = ChatGroq(model='meta-llama/llama-4-maverick-17b-128e-instruct')
 
-    # Prompt engineering for Amazon tasks
     task1 = (
         "Go to https://www.amazon.in/. "
         "Search for 'Samsung S24'. "
