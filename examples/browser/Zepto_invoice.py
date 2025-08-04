@@ -67,11 +67,11 @@ MONTH 2 - JUNE 2025 (June 1 to June 30):
 MONTH 3 - JULY 2025:
 1. Open date picker again click '>' to move to July month
 2. Set start date: July 2, 2025
-3. Check end date is auto set to 21 July 2025
+3. Check end date is auto set to 24 July 2025
 4. Click Apply button
 5. Wait for table to refresh
 6. Click Download button (page 0)
-7. Navigate to URL: https://brands.zepto.co.in/vendor/payments/invoices?invoiceStartDate=2025-07-01T00%3A00%3A00.000Z&invoiceEndDate=2025-07-19T23%3A59%3A59.999Z&pageNumber=1
+7. Navigate to URL: https://brands.zepto.co.in/vendor/payments/invoices?invoiceStartDate=2025-07-01T00%3A00%3A00.000Z&invoiceEndDate=2025-07-24T23%3A59%3A59.999Z&pageNumber=1
 8. Now load this URL in browser.
 9. Click Download button
 10. Change URL pageNumber to 2, press Enter, click Download(this downoloads page number 3 and so on)
